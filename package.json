@@ -1,0 +1,21 @@
+{
+  "name": "whiiieeeuuuw",
+  "version": "1.0.0",
+  "description": "De ECHTE nationale feestdag.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "devstart": "nodemon bot.js"
+  },
+  "keywords": [],
+  "author": "Buse :)",
+  "license": "ISC",
+  "dependencies": {
+    "-": "0.0.1",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
